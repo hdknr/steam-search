@@ -1,7 +1,10 @@
 # steam-search
 
+- [docs](docs)
+
 ## Project setup
-```
+
+```bash
 npm install
 ```
 
