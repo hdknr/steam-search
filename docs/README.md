@@ -41,7 +41,7 @@ $ npm install --save babel-runtime
 ...
 ~~~
 
-[main.js](../blob/master/src/main.js) に追加:
+[main.js](../src/main.js) に追加:
 
 ~~~js
 import Vue from 'vue'
